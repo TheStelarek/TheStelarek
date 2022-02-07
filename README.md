@@ -1,4 +1,5 @@
 
+
 # Hi there!
  
 ### <💻> About me </💻>
@@ -37,5 +38,4 @@ Feel free to visit [my repositories](https://github.com/thestelarek?tab=reposito
 
 ### <📫> How to reach me </📫>
 
-[![Github badge](https://img.shields.io/badge/thestelarek-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thestelarek) [![Gmail badge](https://img.shields.io/badge/dennisbuk97@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennisbuk97@gmail.com) ![Discord](https://img.shields.io/badge/Hickari%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
+[![Github badge](https://img.shields.io/badge/thestelarek-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thestelarek) [![Gmail badge](https://img.shields.io/badge/dennisbuk97@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennisbuk97@gmail.com) ![Discord](https://img.shields.io/badge/Hickari%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dbportfolio.vercel.app) 

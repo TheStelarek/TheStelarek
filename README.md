@@ -39,6 +39,3 @@ Feel free to visit [my repositories](https://github.com/thestelarek?tab=reposito
 
 [![Github badge](https://img.shields.io/badge/thestelarek-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thestelarek) [![Gmail badge](https://img.shields.io/badge/dennisbuk97@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennisbuk97@gmail.com) ![Discord](https://img.shields.io/badge/Hickari%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
----
-
-<img src="https://imgur.com/rilHVxA.png"/> 

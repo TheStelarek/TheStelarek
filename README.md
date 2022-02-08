@@ -7,9 +7,7 @@
 My name is Dennis and I'm Polish **fullstack developer**. I'm here on GitHub to:
 
 - Learn more about fullstack technologies;
-- Contribute to third-party projects;
 - Get inspiration and new ideas
-- Willing to contribute more and more in  **Open Source Projects**
 
 Feel free to visit [my repositories](https://github.com/thestelarek?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
